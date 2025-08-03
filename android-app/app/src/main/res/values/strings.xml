@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School Management</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="role">Role</string>
+    <string name="login_success">Login successful</string>
+    <string name="register_success">Registration successful</string>
+    <string name="logout">Logout</string>
+    <string name="logout_success">Logout successful</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="no_data">No data available</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Navigation -->
+    <string name="dashboard">Dashboard</string>
+    <string name="students">Students</string>
+    <string name="teachers">Teachers</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Profile -->
+    <string name="update_profile">Update Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    
+    <!-- Students -->
+    <string name="student_list">Student List</string>
+    <string name="add_student">Add Student</string>
+    <string name="student_id">Student ID</string>
+    <string name="enrollment_date">Enrollment Date</string>
+    <string name="parent_name">Parent Name</string>
+    <string name="parent_phone">Parent Phone</string>
+    <string name="parent_email">Parent Email</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="medical_info">Medical Information</string>
+    
+    <!-- Teachers -->
+    <string name="teacher_list">Teacher List</string>
+    <string name="add_teacher">Add Teacher</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="qualification">Qualification</string>
+    <string name="experience">Experience</string>
+    <string name="join_date">Join Date</string>
+    <string name="specialization">Specialization</string>
+    <string name="subjects">Subjects</string>
+    <string name="classes">Classes</string>
+    
+    <!-- Roles -->
+    <string name="role_admin">Admin</string>
+    <string name="role_teacher">Teacher</string>
+    <string name="role_student">Student</string>
+    
+    <!-- Validation -->
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    
+    <!-- Network -->
+    <string name="network_error">Network error occurred</string>
+    <string name="server_error">Server error occurred</string>
+    <string name="no_internet">No internet connection</string>
+</resources>
