@@ -53,6 +53,18 @@ Thumbs.db
 .env.test.local
 .env.production.local
 
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
 # OS generated files
 .DS_Store?
 ._*
